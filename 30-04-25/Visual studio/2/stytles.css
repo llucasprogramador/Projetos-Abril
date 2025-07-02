@@ -1,0 +1,27 @@
+/* Estilo para o corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte como Arial */
+    background-color: #f4f4f4; /* Cor de fundo da página (cinza claro) */
+    margin: 0; /* Remove margens padrão */
+    padding: 20px; /* Adiciona um espaçamento interno de 20px */
+}
+/* Estilo para o container */
+.container {
+    display: flex; /* Usa Flexbox para alinhar os elementos */
+    align-items: center; /* Centraliza os elementos verticalmente */
+    background-color: #fff; /* Cor de fundo do container (branco) */
+    padding: 20px; /* Adiciona um espaçamento interno de 20px */
+    border-radius: 8px; /* Arredonda as bordas do container */
+    max-width: 600px; /* Define uma largura máxima para o container */
+    margin: 0 auto; /* Centraliza o container horizontalmente */
+}
+/* Estilo para a imagem */
+img {
+    width: 450px; /* Define a largura da imagem */
+    border-radius: 88px; /* Arredonda as bordas da imagem */
+    margin-right: 20px; /* Adiciona uma margem à direita da imagem */
+}
+/* Estilo para o parágrafo de texto */
+p {
+    color: #333; /* Cor do texto (cinza escuro) */
+    font-size: 1.2rem; /* Tamanho da fonte */
